@@ -1,4 +1,3 @@
-import React from 'react';
 import Property from './property';
 
 function Applist(state){
